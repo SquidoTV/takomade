@@ -9,7 +9,6 @@ weight = 1
 
 [[main]]
 name = "Medias"
-pageRef = "medias"
 externalUrl = "https://soundcloud.com/takotp"
 identifier = "6BaVWw0XgQ"
 weight = 2
