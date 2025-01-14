@@ -10,7 +10,6 @@ weight = 9999
 [[main]]
 name = "Medias"
 pageRef = "medias"
-url = https://soundcloud.com/takotp
 identifier = "6BaVWw0XgQ"
 weight = 9999
 
