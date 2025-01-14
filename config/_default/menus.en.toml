@@ -5,13 +5,13 @@ none = "none"
 name = "Instruments"
 pageRef = "instruments"
 identifier = "e2MTZEkyRQ"
-weight = 1
+weight = 10
 
 [[main]]
 name = "Medias"
-externalUrl = "https://soundcloud.com/takotp"
+url = "https://soundcloud.com/takotp"
 identifier = "6BaVWw0XgQ"
-weight = 2
+weight = 20
 
 [[footer]]
 none = "none"
