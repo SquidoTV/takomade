@@ -19,6 +19,6 @@ none = "none"
 
 [[footer]]
 name = "Contacts"
-pageRef = "https://instagram.com/tako.tp/"
+url = "https://instagram.com/tako.tp/"
 identifier = "KTOQF5xbbV"
 weight = 9999
