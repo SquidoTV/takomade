@@ -11,7 +11,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 defaultFeaturedImage = "logo - TAKO.png"
 
 [header]
-layout = "fixed-fill-blur"
+layout = "basic"
 
 [footer]
 showMenu = true
