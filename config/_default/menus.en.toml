@@ -5,7 +5,7 @@ none = "none"
 name = "Instruments"
 pageRef = "instruments"
 identifier = "e2MTZEkyRQ"
-weight = 10
+weight = 9999
 
 [[main]]
 name = "Medias"

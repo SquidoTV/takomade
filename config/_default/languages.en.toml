@@ -12,5 +12,7 @@ logo = "logo - TAKO.png"
 [author]
 name = "Tako"
 
-[params.author]
-image = "tako-me.png"
+[params]
+author = { image = "tako-me.png" }
+secondaryLogo = "logo - TAKO.png"
+description = "Lutherie Thiernoise"

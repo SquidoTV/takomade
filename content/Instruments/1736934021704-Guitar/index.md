@@ -1,13 +1,12 @@
 ---
-title: "My guitar's name"
-date: 2025-01-14
+title: "Guitar"
+date: 2025-01-15
 draft: false
 description: "a description"
 tags: ["example", "tag"]
 ---
- article
-
-# Article à écrire sur ma guitare
+ an example to get you started
+# This is a heading
 ## This is a subheading
 ### This is a subsubheading
 #### This is a subsubsubheading
